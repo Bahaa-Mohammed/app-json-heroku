@@ -21,7 +21,24 @@
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
             "value": ""
+        },
+        "MAIN_GROUP_ID": {
+            "description": "MAIN GROUP ID",
+            "value": ""
+        },
+        "MONGO_DB_URL": {
+            "description": "MONGO DB URL",
+            "value": ""
+        },
+        "BOT_ID": {
+            "description": "BOT ID",
+            "value": ""
+        },
+        "MAIN_BOT_TOKEN": {
+            "description": "MAIN BOT TOKEN",
+            "value": ""
         }
+
     },
     "addons": [],
     "buildpacks": [
